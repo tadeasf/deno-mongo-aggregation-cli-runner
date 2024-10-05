@@ -1,4 +1,14 @@
 .vscode
 .env
 .DS_Store
-test_messages_2024-10-04T18-01-10-185Z.json
+testOutput
+mongo-ts-aggregator
+mongo-ts-aggregator-mac
+mongo-ts-aggregator-linux
+pipelineJson
+pipelineNode
+assNode
+times.csv
+assJson
+*.db
+node_modules
